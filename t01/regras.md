@@ -1,5 +1,5 @@
 ---
-title: Regras do servidor
+title: Regras
 layout: default
 date: 20/03/09
 ---
