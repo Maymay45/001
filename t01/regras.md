@@ -1,4 +1,3 @@
-<html>
 <title>Regras do Servidor</title>
 
 ###   ༺ Regras do servidor ༻
@@ -14,4 +13,3 @@
 ⑨ Aqui é um grupo para todo tipo de pessoa, portanto respeite o jeito de cada um.    
 ⑩ Não pode legar a ignorância sobre essas regras, ao entrar no server você concorda com as regras.✅   ✔
 
-</html>
