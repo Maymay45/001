@@ -1,3 +1,9 @@
+---
+title: Regras do servidor
+layout: default
+date: 20/03/09
+---
+
 ###   ༺ Regras do servidor ༻
 
 ① Não atrapalhar e ofender os outros que estão no server.   
