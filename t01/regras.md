@@ -9,10 +9,9 @@
 ⑦ Manter as conversas dentro do assunto do canal.   
 ⑧ Divulgação é proibida exceto quando explicitamente dito o contrário.   
 ⑨ Aqui é um grupo para todo tipo de pessoa, portanto respeite o jeito de cada um.    
-⑩ Não pode legar a ignorância sobre essas regras, ao entrar no server você concorda com as regras.✅   ✔
+⑩ Não pode legar a ignorância sobre essas regras, ao entrar no server você concorda com as regras.✅   ✔   
 
-<script>
-document.getElementById("title1").innerHTML = "Regras";   
-document.getElementById("a1").innerHTML = "Meu site";
+<script>   
+document.getElementById("a1").innerHTML = "Meu site";  
   
 </script>
