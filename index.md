@@ -1,4 +1,8 @@
-<link rel="stylesheet" type="text/css" href="estilo.menu.css"/>
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="estilo.menu.css"/>
+	</head>
+
 	
 <input type="checkbox" id="bt_menu">
 <label for="bt_menu">&#9776;</label>
@@ -25,3 +29,5 @@
 
 
 # bom dia
+
+</html>
