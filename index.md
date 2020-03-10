@@ -26,7 +26,7 @@
                          <li><a href="#">Animes</a></li>
                          <li><a href="#">Regras do Discord</a></li>
                  </ul>
-             </li>
+            
       
              <li><a href="#">Contato</a></li>
          </ul>
